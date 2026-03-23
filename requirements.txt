@@ -1,0 +1,10 @@
+pandas
+numpy
+pyspark
+pymongo
+requests
+scikit-learn
+xgboost
+matplotlib
+seaborn
+plotly
